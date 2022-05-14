@@ -1,1 +1,1 @@
-# grace-community-center-mobile-app
+# Grace-Community-Center-Mobile-App
