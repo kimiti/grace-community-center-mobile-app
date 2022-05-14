@@ -1,1 +1,1 @@
-# Grace-Community-Center-Mobile-App
+# Grace Community Center Mobile App
